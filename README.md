@@ -69,6 +69,6 @@ That's why I like to make things that make a difference.
 
 ---
 
-### 📈 my github stats
+### 📈 My Github Stats
 
 ![Sushant Kumar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushant-skumar&theme=tokyonight&theme=icegray&border_radius=8) |
