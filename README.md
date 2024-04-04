@@ -24,7 +24,7 @@ That's why I like to make things that make a difference.
 ### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **Computer Science and Engineering Student**
-- 🔭 I’m currently working on [Amazon Sales Analysis](https://github.com/AswinBarath/ju-query)
+- 🔭 I’m currently working on [Amazon Sales Analysis](https://github.com/Sushant-SKumar/Amazon_Sales_Analysis.git)
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning Machine Learning
 - 📬 How to reach me: [sushantkumar92940@gmail.com](mailto:sushantkumar92940@gmail.com)
