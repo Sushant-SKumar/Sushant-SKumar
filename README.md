@@ -10,7 +10,7 @@
 
 
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
+## Glad to see you here!
 
 I am a Data Scientist. I love programming, reading, writing and speaking.
 
