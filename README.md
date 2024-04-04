@@ -71,4 +71,4 @@ That's why I like to make things that make a difference.
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sushant-skumar&show_icons=true&theme=gotham" alt="sushantskumar" />
+![Sushant Kumar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushant-skumar&theme=tokyonight&theme=icegray&border_radius=8) |
