@@ -68,6 +68,7 @@ That's why I like to make things that make a difference.
 </p>
 
 ---
-* [LGTM collections](https://github.com/Sushant-SKumar.github.io/yoshi389111/lgtm.html)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sushant-skumar&show_icons=true&theme=gotham" alt="sushantskumar" />
