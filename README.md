@@ -71,4 +71,4 @@ That's why I like to make things that make a difference.
 
 ### 📈 My Github Stats
 
-![Sushant Kumar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushant-skumar&theme=dark&show&theme=orange&border_radius=12) |
+![Sushant Kumar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushant-skumar&theme=dark&show&theme=blue&border_radius=12) |
